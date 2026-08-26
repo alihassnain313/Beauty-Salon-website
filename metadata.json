@@ -1,0 +1,6 @@
+{
+  "name": "Imperial - Beauty Salon and Spa",
+  "description": "Karachi's premier luxury beauty salon and spa in Gulshan-e-Iqbal offering bespoke hair styling, skincare, bridal makeup, nail art, and relaxing spa treatments.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
